@@ -10,11 +10,25 @@ $a). \frac{4}{3}$&nbsp;&nbsp;&nbsp;$b). \frac{8}{3}$&nbsp;&nbsp;&nbsp;$c). \frac
 </li>
 
 <li class="fragment">
----?include=step_1.md
+Step 1
+For two exponents that are equal if they have the same base, then, the exponents must be the same:
+
+if: $2^{x} = 2^{10}$
+
+then: $x = 10$
+
+But the base is not the same in the question!
 </li>
 
 <li class="fragment">
----?include=step_1.md
+Step 2
+For two exponents that are equal if they have the same base, then, the exponents must be the same:
+
+if: $2^{x} = 2^{10}$
+
+then: $x = 10$
+
+But the base is not the same in the question!
 </li>
 
 </ul>
