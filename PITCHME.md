@@ -1,14 +1,11 @@
 ---
-<ul>
-  
-<li class="fragment">
 
 Solve for x: $16^{2x+1}=128$
 
 $a). \frac{4}{3}$&nbsp;&nbsp;&nbsp;$b). \frac{8}{3}$&nbsp;&nbsp;&nbsp;$c). \frac{3}{8}$&nbsp;&nbsp;&nbsp;$d). 4$
 
-</li>
-
+<ul>
+  
 <li class="fragment">
 Step 1
 For two exponents that are equal if they have the same base, then, the exponents must be the same:
