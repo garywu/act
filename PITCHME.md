@@ -4,4 +4,4 @@ Solve for x: $16^{2x+1}=128$
 
 $a). \frac{4}{3}$&nbsp;&nbsp;&nbsp;$b). \frac{8}{3}$&nbsp;&nbsp;&nbsp;$c). \frac{3}{8}$&nbsp;&nbsp;&nbsp;$d). 4$
 
---?include=step_1.md
+---?include=step_1.md
