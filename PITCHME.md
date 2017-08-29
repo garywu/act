@@ -4,6 +4,7 @@ Solve for x: $16^{2x+1}=128$
 
 ---
 
+<font size=3>
 Solve for x: $16^{2x+1}=128$
 
 Step 1
@@ -14,6 +15,7 @@ if: $2^{x} = 2^{10}$
 then: $x = 10$
 
 But the base is not the same in the question!
+</font>
 
 ---
 
