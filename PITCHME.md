@@ -2,7 +2,7 @@
 
 Solve for x: $16^{2x+1}=128$
 
----?code=path/to/source.file
+---?code=step-1.lax
 
 ---
 
