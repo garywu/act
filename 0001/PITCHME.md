@@ -10,11 +10,11 @@ Solve for x: $4^{x + 7} = 8^{x + 3}$
 - Solve: $x = 5$ |
 ---
 
-Please join:
+**Please join:**
 <b>
   [https://<span style="color:red">patreon.com</span>/<span style="color:red">lastq</span>](https://patreon.com/lastq)
 
-Please chat:
+**Please chat:**
 <b>
   [https://<span style="color:red">discord.gg</span>/<span style="color:red">6HzBut9</span>](https://discord.gg/6HzBut9)
 
