@@ -1,12 +1,17 @@
+<!--
+https://www.montville.net/cms/lib3/NJ01001247/Centricity/Domain/564/3-4%20Exponential%20and%20Logarithmic%20Equations.pdf
+-->
+
 ---
 
 Solve for x: $4^{x + 7} = 8^{x + 3}$
 
 - Hint 1: make the base (4 and 8) of the exponent the same.|
 - Hint 2: $(2^2)^{x + 7} = (2^3)^{x + 3}$ |
-- Hint 3: Merge exponents by multiply: $2^{2\left(x + 7\right)} = 2^{3\left(x + 3\right)}$ |
-- Hint 4: look |
-- Hint 5: look |
+- Hint 3: Merge exponents by multiplication: $2^{2\left(x + 7\right)} = 2^{3\left(x + 3\right)}$ |
+- Hint 4: Exponents with same base are equal:  2\left(x + 7\right)} = 3\left(x + 3\right)$ |
+- Hint 5: Distribute and muliply:  $2x + 14 = 3x + 9$|
+- Hint 6: Simplify and solve:  x = 5$|
 ---
 
 <font size=3>
@@ -34,3 +39,6 @@ if: $2^{x} = 2^{10}$
 then: $x = 10$
 
 But the base is not the same in the question!
+
+
+
