@@ -1,5 +1,7 @@
-`\begin{align}
-\dot{x} & = \sigma(y-x) \\
-\dot{y} & = \rho x - y - xz \\
-\dot{z} & = -\beta z + xy
-\end{align}`
+1. Select the 1
+1. Select the 2
+1. Select the 3
+1. Select the 4
+1. Select the 5
+1. Select the 6
+
