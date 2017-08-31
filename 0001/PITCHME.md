@@ -14,6 +14,10 @@ Please join:
 <b>
   [https://<span style="color:red">patreon</span>.com/<span style="color:red">lastq</span>](https://patreon.com/lastq)
 
+Please chat:
+  [https://<span style="color:red">discord.gg</span>/<span style="color:red">6HzBut9</span>](https://discord.gg/6HzBut9)
+
+
 
 <!--
 https://www.montville.net/cms/lib3/NJ01001247/Centricity/Domain/564/3-4%20Exponential%20and%20Logarithmic%20Equations.pdf
