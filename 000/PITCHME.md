@@ -9,7 +9,7 @@ Solve for x: $4^{x + 7} = 8^{x + 3}$
 - 1. Make the base (4 and 8) of the exponent the same.|
 - 2. $(2^2)^{x + 7} = (2^3)^{x + 3}$ |
 - 3. Merge exponents by multiplication: $2^{2\left(x + 7\right)} = 2^{3\left(x + 3\right)}$ |
-- 4. Exponents with same base are equal:  2\left(x + 7\right) = 3\left(x + 3\right)$ |
+- 4. Exponents with same base are equal:  $2\left(x + 7\right) = 3\left(x + 3\right)$ |
 - 5. Distribute and muliply:  $2x + 14 = 3x + 9$|
 - 6. Simplify and solve:  $x = 5$|
 ---
