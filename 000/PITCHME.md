@@ -7,7 +7,8 @@ Solve for x: $4^{x + 7} = 8^{x + 3}$
 - Merge exponents by multiplication: $2^{2\left(x + 7\right)} = 2^{3\left(x + 3\right)}$ |
 - Exponents with same base are equal:  $2\left(x + 7\right) = 3\left(x + 3\right)$ |
 - Distribute and multiply:  $2x + 14 = 3x + 9$|
-- Simplify and solve:  $x = 5$|
+- Simplify: $5x = 25$ |
+- Solve:  $x = 5$|
 ---
 
 <font size=3>
