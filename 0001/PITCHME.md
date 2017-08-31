@@ -1,6 +1,6 @@
 ---
 
-Solve for x: $4^{x + 7} = 8^{x + 3}$
+**Solve for x: $4^{x + 7} = 8^{x + 3}$**
 
 - Make the base (4 and 8) the same.|
 - $(2^2)^{x + 7} = (2^3)^{x + 3}$ |
