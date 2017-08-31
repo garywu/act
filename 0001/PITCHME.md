@@ -12,7 +12,7 @@ Solve for x: $4^{x + 7} = 8^{x + 3}$
 
 Please join:
 <b>
-http://patreon/lastq
+https://patreon/lastq
 
 
 <!--
