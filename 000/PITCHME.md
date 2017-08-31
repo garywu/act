@@ -1,7 +1,3 @@
-<!--
-https://www.montville.net/cms/lib3/NJ01001247/Centricity/Domain/564/3-4%20Exponential%20and%20Logarithmic%20Equations.pdf
--->
-
 ---
 
 Solve for x: $4^{x + 7} = 8^{x + 3}$
@@ -40,5 +36,8 @@ then: $x = 10$
 
 But the base is not the same in the question!
 
+<!--
+https://www.montville.net/cms/lib3/NJ01001247/Centricity/Domain/564/3-4%20Exponential%20and%20Logarithmic%20Equations.pdf
+-->
 
 
