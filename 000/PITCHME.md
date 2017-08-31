@@ -10,7 +10,10 @@ Solve for x: $4^{x + 7} = 8^{x + 3}$
 - Solve: $x = 5$ |
 ---
 
-LastQ ACT
+Please join:
+<b>
+http://patreon/lastq
+
 
 <!--
 https://www.montville.net/cms/lib3/NJ01001247/Centricity/Domain/564/3-4%20Exponential%20and%20Logarithmic%20Equations.pdf
