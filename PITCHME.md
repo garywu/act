@@ -4,9 +4,9 @@ Solve for x: $16^{2x+1}=128$
 
 ---?code=step-1.md
 
-@[1] test 1
-@[2-3] test 2-3
-@[4-6] test 4-6
+@[1](test 1)
+@[2-3](test 2-3)
+@[4-6](test 4-6)
 
 ---
 
