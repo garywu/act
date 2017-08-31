@@ -1,6 +1,7 @@
 ---
 
 Solve for x: $4^{x + 7} = 8^{x + 3}$
+
 - Hint 1: make the base (4 and 8) of the exponent the same.
 - Hint 2: look |
 - Hint 3: look |
